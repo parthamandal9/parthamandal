@@ -4,7 +4,7 @@ const typedTextSpan = document.querySelector(".typed-text");
             const textArray = ["Freelancer", "Developer", "Database Designer"];
             const typingDelay = 200;
             const erasingDelay = 100;
-            const newTextDelay = 500;
+            const newTextDelay = 1000;
             let textArrayIndex = 0;
             let charIndex = 0;
 
